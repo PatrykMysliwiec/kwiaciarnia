@@ -41,7 +41,7 @@
             }
             mysqli_close($polaczenie);
         }
-
+        
         ?>
     </main>
     <footer>
